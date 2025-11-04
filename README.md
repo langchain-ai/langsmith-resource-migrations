@@ -1,5 +1,13 @@
 # LangSmith Resource Migrations
 
+> **⚠️ DEPRECATED**
+>
+> This repository is no longer maintained. Please use the official LangSmith data migration tool instead:
+>
+> **https://github.com/langchain-ai/langsmith-data-migration-tool**
+
+---
+
 A class to help with migrating resources between LangSmith instances
 
 ## Usage
